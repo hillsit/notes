@@ -1,5 +1,7 @@
 
-# After Creating a New Gitlab Repo
+# Git Commands
+
+### After Creating a New Gitlab Repo
 [Reference] (https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
 
 ```
